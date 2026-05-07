@@ -11,6 +11,13 @@ dependencies = [
     "python-dotenv>=1.1",
     "pandas>=2.2",
     "matplotlib>=3.9",
+    "scikit-image==0.26.0",
+    "torch>=2.11.0",
+    "torchvision>=0.26.0",
+    "torchaudio>=2.11.0",
+    "lightning>=2.6.1",
+    "open3d>=0.19.0",
+    "pyfiles>=0.3.1",
 ]
 
 [project.optional-dependencies]
